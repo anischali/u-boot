@@ -9,6 +9,7 @@ General
 .. toctree::
    :maxdepth: 1
 
+   bitbangmii
    board_best_practices
    codingstyle
    designprinciples
@@ -81,7 +82,7 @@ Testing
    :maxdepth: 1
 
    testing
-   py_testing
+   pytest/index
    tests_writing
    tests_sandbox
    binman_tests
